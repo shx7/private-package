@@ -2,7 +2,7 @@
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
 
-//version 3
+//version 4
 import PackageDescription
 
 let package = Package(
